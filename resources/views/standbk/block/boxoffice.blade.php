@@ -1,0 +1,9 @@
+<h3>{{$block_title}}</h3>
+<ul>
+  <li>日期</li>
+  <li>销售部门</li>
+  <li>客户名称</li>
+  <li>购买机型</li>
+  <li>数量</li>
+  <li>成交额合计</li>
+</ul>
